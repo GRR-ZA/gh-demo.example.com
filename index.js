@@ -1,0 +1,5 @@
+   {
+     "name": "grr-demo-app",
+     "version": "1.0.0",
+     "scripts": { "start": "node index.js" }
+   }
